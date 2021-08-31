@@ -11,7 +11,7 @@ The satellite event will take place at the Norrköping Campus of Linköping Univ
 
 ![Visualization Center](assets/visualiseringscenter.jpg)
 
-There are a number of greats hotels that are available during the conference time:
+The city has several great hotels and possible places to stay during the conference time. Some recommendations are:
  - [The Lamp Hotel](https://www.thelamphotel.se/en/)
  - [Elite Grand Hotel](https://www.elite.se/en/hotels/norrkoping/grand-hotel/)
  - [President Hotel](https://president-hotel-norrkoping.hotel-ds.com/en/)
