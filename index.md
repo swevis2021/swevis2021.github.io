@@ -16,6 +16,7 @@ The city has several great hotels and possible places to stay during the confere
  - [Elite Grand Hotel](https://www.elite.se/en/hotels/norrkoping/grand-hotel/)
  - [President Hotel](https://president-hotel-norrkoping.hotel-ds.com/en/)
  - [Scandic Strömmen](https://www.scandichotels.com/hotels/sweden/norrkoping/scandic-strommen)
+ - [Comfort Hotel Norrköping](https://www.nordicchoicehotels.com/hotels/sweden/norrkoping/comfort-hotel-norrkoping/)
 
 ## Registration
 If you are interested in joining us please complete [this survey](https://forms.office.com/Pages/ResponsePage.aspx?id=7Bg_kSZ_X0yoFnhP6aWO3UsUEfvoYE1AprAtgryeaaZURU8yODhPS0ZDMVM0RVVFUlFOU1lRNjVCUy4u) to receive updates via our mailing list and to help use start planning.  Due to pandemic-restrictions currently active in Sweden, there is a maximum number of participants that we can allow using our available facilities, so this registration is first-come, first-served.  If you fill out the registration but then later reconsider, please let us know so that we can keep an up-to-date account of attendees.
