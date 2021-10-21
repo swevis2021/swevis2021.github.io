@@ -4,7 +4,21 @@ The visualization team at [Linköping University](https://liu.se) is excited to 
 ## Program
 We will provide on-campus facilities to watch the live streams of VIS conference sessions.  Due to the time difference, these sessions will predominantly take place in the afternoon.  We will host an auxiliary program in the mornings to encourage networking and collaboration, consisting of a combination of demo sessions, seminar series, and lightning talks. We will also have [fika](https://visitsweden.com/what-to-do/food-drink/swedish-kitchen/all-about-swedish-fika/) each day.  Additionally, there will be a local social event in the [Visualization Center C](http://visualiseringscenter.se/en), sponsored by [Visual Sweden](https://www.visualsweden.se/en/) with a dinner and an evening at the dome theater. 
 
-As soon as the program is finalized, we will update this page with more information.
+Following the local program for the satellite event. Empty time slots in the morning indicate that no local event is planned; we are following the conference schedule in the afternoons starting at 1430, 1445, or 1500 depending on the day, see the [official schedule](https://virtual.ieeevis.org/year/2021/calendar.html) for more information.
+
+| Time (local time) | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday |
+|--|--|--|--|--|--|--|
+| 1000-1100 | | [Fika][fika] | [Fika][fika] | [Fika][fika] | | [Fika][fika]
+| 1100-1200 | | Seminar (_KO301_) | Seminar (_KO301_) | Seminar (_KO301_) | | Seminar (_KO301_)
+| 1430-1500 (1445 on Tuesday) | [Fika][fika] | [Fika][fika] | [Fika][fika]| [Fika][fika]
+| 1900-2200 | | | | Dinner and Social event at the [Visualization Center C](http://visualiseringscenter.se/)
+
+### Seminar
+In the mornings of each day except Thursday we will have a small, very informal seminar series lasting one hour in which we will have 2 presentations and ample time for discussions.
+
+## Location
+The satellite event will take place at the Norrköping Campus of Linköping University, specifically in the building called Kopparhammaren 2 (the copper hammer) which you can find [here](https://www.google.com/maps/place/Norra+Grytsgatan+10a,+602+33+Norrk%C3%B6ping/@58.5887766,16.176356,20z/data=!4m5!3m4!1s0x46593bca9415fb59:0x236489614ceea55d!8m2!3d58.5887454!4d16.17625690).  We have three conferences rooms (KO201, KO202 on the second floor,  KO301 on the third floor) in which all of the events will take place. Don't hesitate to reach out on on #norrköping channel in the conference Discord to get in touch with everyone.
+
 
 ## Logistics
 The satellite event will take place at the Norrköping Campus of Linköping University.  Norrköping is a city located about 2h south of Stockholm and easy to reach by car, train, and plane.
@@ -31,3 +45,5 @@ The IEEE VIS [conference registration](http://ieeevis.org/year/2021/info/registr
 [Andreas Kerren](https://liu.se/en/employee/andke01) \
 [Miriah Meyer](https://miriah.github.io/) \
 [Anders Ynnerman](https://liu.se/en/employee/andyn27)
+
+[fika]: https://en.wikipedia.org/wiki/Coffee_culture#Sweden
