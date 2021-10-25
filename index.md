@@ -18,13 +18,12 @@ In the mornings of each day except Thursday we will have a small, very informal 
 
  - Tuesday
    - Elias Elmquist, LiU:  AudioVisual Analytics
-   - Martin Falk, LiU:  Visualization for Verification and Validation in Cryo-EM
+   - Martin Falk, LiU:  Visual Guidance in CryoEM Model Validation and Verification
  - Wednesday
    - Margit Pohl, TU Vienna:  Visualization Onboarding
    - Angelos Chatzimparmpas, LNU:  Visual Analytics for Explainable Machine Learning in the Nutshell
  - Friday
    - Signe Sidwall Thygesen, LiU
-   - Talha Bin Masood, LiU
    - Daniel Witschard, LNU:  Combining Different Embeddings for Multivariate Networks
 
 
