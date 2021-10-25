@@ -16,6 +16,18 @@ Following the local program for the satellite event. Empty time slots in the mor
 ### Seminar
 In the mornings of each day except Thursday we will have a small, very informal seminar series lasting one hour in which we will have 2 presentations and ample time for discussions.
 
+ - Tuesday
+   - Elias Elmquist, LiU:  Sonification for Communication
+   - Martin Falk, LiU:  Visualization for Verification and Validation in Cryo-EM
+ - Wednesday
+   - Margit Pohl, TU Vienna:  Visualization Onboarding
+   - Angelos Chatzimparmpas, LNU:  Visual Analytics for Explainable Machine Learning in the Nutshell
+ - Friday
+   - Signe Sidwall Thygesen, LiU
+   - Talha Bin Masood, LiU
+   - Daniel Witschard, LNU:  Combining Different Embeddings for Multivariate Networks
+
+
 ## Location
 The satellite event will take place at the Norrköping Campus of Linköping University, specifically in the building called Kopparhammaren 2 (the copper hammer) which you can find [here](https://www.google.com/maps/place/Norra+Grytsgatan+10a,+602+33+Norrk%C3%B6ping/@58.5887766,16.176356,20z/data=!4m5!3m4!1s0x46593bca9415fb59:0x236489614ceea55d!8m2!3d58.5887454!4d16.17625690).  We have three conferences rooms (KO201, KO202 on the second floor,  KO301 on the third floor) in which all of the events will take place. Don't hesitate to reach out on on #norrköping channel in the conference Discord to get in touch with everyone.
 
