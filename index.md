@@ -17,7 +17,7 @@ Following the local program for the satellite event. Empty time slots in the mor
 In the mornings of each day except Thursday we will have a small, very informal seminar series lasting one hour in which we will have 2 presentations and ample time for discussions.
 
  - Tuesday
-   - Elias Elmquist, LiU:  Sonification for Communication
+   - Elias Elmquist, LiU:  AudioVisual Analytics
    - Martin Falk, LiU:  Visualization for Verification and Validation in Cryo-EM
  - Wednesday
    - Margit Pohl, TU Vienna:  Visualization Onboarding
