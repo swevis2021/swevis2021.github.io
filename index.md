@@ -10,7 +10,7 @@ Following the local program for the satellite event. Empty time slots in the mor
 |--|--|--|--|--|--|--|
 | 1000-1100 | | [Fika][fika] | [Fika][fika] | [Fika][fika] | | [Fika][fika]
 | 1100-1200 | | Seminar (_KO301_) | Seminar (_KO301_) | Seminar (_KO301_) | | Seminar (_KO301_)
-| 1430-1500 (1445 on Tuesday) | [Fika][fika] | [Fika][fika] | [Fika][fika]| [Fika][fika]
+| 1430-1500 (1445 on Tuesday) | | [Fika][fika] | [Fika][fika] | [Fika][fika] | [Fika][fika] | [Fika][fika]
 | 1900-2200 | | | | Dinner and Social event at the [Visualization Center C](http://visualiseringscenter.se/)
 
 ### Seminar
