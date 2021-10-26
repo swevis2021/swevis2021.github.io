@@ -23,7 +23,7 @@ In the mornings of each day except Thursday we will have a small, very informal 
    - Margit Pohl, TU Vienna:  Visualization Onboarding
    - Angelos Chatzimparmpas, LNU:  Visual Analytics for Explainable Machine Learning in the Nutshell
  - Friday
-   - Signe Sidwall Thygesen, LiU
+   - Signe Sidwall Thygesen, LiU:  Visual abstractions and exploration of electronic transition ensembles
    - Daniel Witschard, LNU:  Combining Different Embeddings for Multivariate Networks
 
 
